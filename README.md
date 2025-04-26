@@ -108,7 +108,7 @@ The script outputs the following results to the console:
 
 ## Customization
 To analyze a different text file:
-1. Update the `file_path` variable with the path to your desired file.
+1. All code files contain the same code just looking at a different txt  you can update the `file_path` variable with the path to your desired file to look at your own txt file 
 2. Ensure the file is accessible and encoded in UTF-8.
 
 
