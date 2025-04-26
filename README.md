@@ -8,6 +8,7 @@ The code files  is a Python program designed to perform comprehensive text analy
 The purpose of these code files is to determine the likely author of the fourth text file by applying various Natural Language Processing (NLP) techniques. The analysis involves examining linguistic patterns in the three other text files and comparing them to the fourth. This includes processes such as trigram frequency analysis, lemmatization, stemming, tokenization, and named entity recognition. By running these techniques on each file, the code aims to identify stylistic and lexical similarities that could suggest whether any of the authors of the first three texts also wrote the fourth.
 
 ## Files 
+- Copilot Chat log.docx - copilot help
 - Findings.docx - concludes all findings over the four txt files 
 - Martin.txt - also known as four file/txt
 - RJ_Lovecraft (1).txt - also know as first file/txt
